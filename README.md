@@ -1,6 +1,6 @@
 # Ingenieria de Software
 ## Informacion del autor
-[![Presentaci-n1.png](https://i.postimg.cc/br1VbhM5/Presentaci-n1.png)](https://postimg.cc/30JZ5P3j)
+[![ingenieria-de-software.png](https://i.postimg.cc/vHyJGsC3/ingenieria-de-software.png)](https://postimg.cc/5jP7mZ4C)
 
 `Autores: 
 Porozo Caicedo Jose Miguel
