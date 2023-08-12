@@ -25,3 +25,4 @@ tareas y la mejora delacceso a la información financiera.
 
 5-Destacar las medidas esenciales de seguridad de datos que deben implementarse para proteger la información financiera en 
 un entorno de gestión de contabilidad.
+
