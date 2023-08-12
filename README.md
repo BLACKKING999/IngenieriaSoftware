@@ -4,11 +4,13 @@
 
 `Autores: 
 Porozo Caicedo Jose Miguel
-Nazareno Chila Carolina 
-Ordoñez Valencia Carolina
-Tafur Leon Isaac
 `
-
+`Nazareno Chila Carolina 
+`
+`Ordoñez Valencia Carolina
+`
+`Tafur Leon Isaac
+`
 
 
 
