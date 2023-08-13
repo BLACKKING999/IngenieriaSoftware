@@ -7,22 +7,12 @@ esencia de los subsistemas de gestión de contabilidad y se discutirán las medi
 financieros en este entorno altamente sensible.
 
 # Objetivo General
-  El objetivo principal de este ensayo es analizar en profundidad la gestión de contabilidad como un componente crítico en la
-administración financiera y la toma de decisiones empresariales, y explorar cómo la tecnología y los subsistemas contribuyen a optimizar
-este proceso. Además, se busca resaltar la importancia de la seguridad de los datos en el entorno de gestión de contabilidad y presentar
-medidas clave para proteger la información financiera.
+  
+
 
 ## Objetivos Específicos: 
 
-1-Analizar el concepto de gestión de contabilidad y su relación con la toma de decisiones estratégicas en las organizaciones.
 
-2-Examinar la importancia de la precisión y confiabilidad de los datos financieros en el proceso de gestión de contabilidad.
 
-3-Evaluar el papel de la tecnología en la modernización de la gestión de contabilidad, incluida la automatización de 
-tareas y la mejora delacceso a la información financiera.
 
-4-Explorar los componentes y funciones clave de los subsistemas de gestión de contabilidad y su contribución a la eficiencia operativa.
-
-5-Destacar las medidas esenciales de seguridad de datos que deben implementarse para proteger la información financiera en 
-un entorno de gestión de contabilidad.
 
