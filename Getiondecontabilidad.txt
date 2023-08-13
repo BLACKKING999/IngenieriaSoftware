@@ -1,10 +1,10 @@
 # Introducción
-  La gestión de contabilidad desempeña un papel fundamental en el funcionamiento y la toma de decisiones de las organizaciones en el
-entorno empresarial actual. A través de la captura, análisis y registro de datos financieros, esta disciplina proporciona información
-crucial que guía la toma de decisiones informadas y estratégicas. Este ensayo explora la importancia de la gestión de contabilidad en el
-contexto empresarial, su influencia en la toma de decisiones y la incorporación de la tecnología en este proceso. Además, se analizará la
-esencia de los subsistemas de gestión de contabilidad y se discutirán las medidas esenciales para garantizar la seguridad de los datos
-financieros en este entorno altamente sensible.
+  La gestión contable es un componente esencial en cualquier organización, ya que implica el seguimiento, registro y análisis de las 
+transacciones financieras para garantizar la salud financiera y la toma de decisiones. En la era digital actual, la gestión contable ha 
+evolucionado hacia el uso de bases de datos, permitiendo un almacenamiento eficiente y accesible de información financiera, las bases de 
+datos son una herramienta fundamental ya que nos permite acceder a nuestros registros contables de manera rápida también ofrece ciertos 
+niveles de seguridad para nuestros registros contables ya que evita que la información sea modificada o vista por fuentes externas una 
+organización o empresa
 
 # Objetivo General
   
