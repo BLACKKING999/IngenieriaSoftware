@@ -7,7 +7,26 @@ niveles de seguridad para nuestros registros contables ya que evita que la infor
 organización o empresa
 
 # Objetivo General
-  
+
+1.-Registrar y clasificar transacciones: Capturar de manera precisa y ordenada todas las transacciones económicas de la empresa, categorizándolas adecuadamente según su naturaleza (ingresos, gastos, inversiones, deudas, etc.).
+
+2.-Elaborar estados financieros: Generar regularmente los estados financieros (balance general, estado de resultados, estado de flujo de efectivo, entre otros) para proporcionar una imagen clara y objetiva de la situación financiera de la empresa en un período determinado.
+
+3.-Cumplir con obligaciones fiscales: Asegurar que la empresa cumpla con las normativas fiscales y reglamentos aplicables, presentando oportunamente las declaraciones de impuestos y manteniendo los registros necesarios para respaldar estas declaraciones.
+
+4.-Proporcionar información para la toma de decisiones: Facilitar a los directivos de la empresa información financiera relevante y oportuna que les permita tomar decisiones estratégicas, evaluar el rendimiento de la empresa y planificar el futuro.
+
+5.-Control interno: Establecer mecanismos de control que ayuden a prevenir y detectar errores, fraudes o irregularidades en la gestión financiera de la empresa, garantizando la integridad de los datos contables.
+
+6.-Optimizar recursos: Identificar áreas donde se pueden reducir costos, aumentar eficiencias y mejorar la asignación de recursos, contribuyendo a la rentabilidad de la empresa.
+
+7.-Rendición de cuentas: Proporcionar información transparente y confiable a los accionistas, inversionistas, acreedores y otros stakeholders interesados en la salud financiera de la empresa.
+
+8.-Apoyar la planificación y presupuesto: Colaborar en la elaboración de planes financieros, presupuestos y proyecciones basados en datos contables confiables.
+
+9.-Evaluar el rendimiento: Analizar los resultados financieros y compararlos con metas y estándares previamente establecidos para evaluar el desempeño de la empresa.
+
+10.-Garantizar la continuidad: Contribuir a la estabilidad financiera de la empresa a largo plazo, permitiendo la identificación temprana de desafíos y oportunidades.
 
 
 ## Objetivos Específicos: 
