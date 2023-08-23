@@ -16,7 +16,7 @@ La gestión contable es un componente esencial en cualquier organización, ya qu
 \section{Objetivo General}
 El objetivo principal de este artículo es analizar en profundidad la gestión de contabilidad como un componente crítico en la administración financiera y la toma de decisiones empresariales, y explorar cómo la tecnología y los subsistemas contribuyen a optimizar este proceso. Además, se busca resaltar la importancia de la seguridad de los datos en el entorno de gestión de contabilidad y presentar medidas clave para proteger la información financiera.
 
-\section{Objetivos Específicos}
+\subsection{Objetivos Específicos}
 \begin{enumerate}
     \item Evaluar la Efectividad de las Bases de Datos en la Gestión Contable: Analizar cómo el uso de bases de datos en la gestión contable mejora la accesibilidad, almacenamiento y seguridad de los registros financieros.
     
@@ -26,4 +26,3 @@ El objetivo principal de este artículo es analizar en profundidad la gestión d
 \end{enumerate}
 
 \end{document}
-
