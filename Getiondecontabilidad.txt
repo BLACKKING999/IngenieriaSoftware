@@ -1,46 +1,29 @@
-# Introducción
-  La gestión contable es un componente esencial en cualquier organización, ya que implica el seguimiento, registro y análisis de las 
-transacciones financieras para garantizar la salud financiera y la toma de decisiones. En la era digital actual, la gestión contable ha 
-evolucionado hacia el uso de bases de datos, permitiendo un almacenamiento eficiente y accesible de información financiera, las bases de 
-datos son una herramienta fundamental ya que nos permite acceder a nuestros registros contables de manera rápida también ofrece ciertos 
-niveles de seguridad para nuestros registros contables ya que evita que la información sea modificada o vista por fuentes externas una 
-organización o empresa
+\documentclass{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
 
-# Objetivo General
+\title{La gestión en contabilidad}
+\author{Jose Miguel Porozo \and Tafur Issa}
+\date{23 de agosto de 2023}
 
-1.-Registrar y clasificar transacciones: Capturar de manera precisa y ordenada todas las transacciones económicas de la empresa, categorizándolas adecuadamente según su naturaleza (ingresos, gastos, inversiones, deudas, etc.).
+\begin{document}
 
-2.-Elaborar estados financieros: Generar regularmente los estados financieros (balance general, estado de resultados, estado de flujo de efectivo, entre otros) para proporcionar una imagen clara y objetiva de la situación financiera de la empresa en un período determinado.
+\maketitle
 
-3.-Cumplir con obligaciones fiscales: Asegurar que la empresa cumpla con las normativas fiscales y reglamentos aplicables, presentando oportunamente las declaraciones de impuestos y manteniendo los registros necesarios para respaldar estas declaraciones.
+\section{Introducción}
+La gestión contable es un componente esencial en cualquier organización, ya que implica el seguimiento, registro y análisis de las transacciones financieras para garantizar la salud financiera y la toma de decisiones. En la era digital actual, la gestión contable ha evolucionado hacia el uso de bases de datos, permitiendo un almacenamiento eficiente y accesible de información financiera. Las bases de datos son una herramienta fundamental, ya que nos permite acceder a nuestros registros contables de manera rápida y también ofrecen ciertos niveles de seguridad para nuestros registros contables, evitando que la información sea modificada o vista por fuentes externas a la organización o empresa.
 
-4.-Proporcionar información para la toma de decisiones: Facilitar a los directivos de la empresa información financiera relevante y oportuna que les permita tomar decisiones estratégicas, evaluar el rendimiento de la empresa y planificar el futuro.
+\section{Objetivo General}
+El objetivo principal de este artículo es analizar en profundidad la gestión de contabilidad como un componente crítico en la administración financiera y la toma de decisiones empresariales, y explorar cómo la tecnología y los subsistemas contribuyen a optimizar este proceso. Además, se busca resaltar la importancia de la seguridad de los datos en el entorno de gestión de contabilidad y presentar medidas clave para proteger la información financiera.
 
-5.-Control interno: Establecer mecanismos de control que ayuden a prevenir y detectar errores, fraudes o irregularidades en la gestión financiera de la empresa, garantizando la integridad de los datos contables.
+\section{Objetivos Específicos}
+\begin{enumerate}
+    \item Evaluar la Efectividad de las Bases de Datos en la Gestión Contable: Analizar cómo el uso de bases de datos en la gestión contable mejora la accesibilidad, almacenamiento y seguridad de los registros financieros.
+    
+    \item Identificar los Beneficios de la Digitalización en la Gestión Contable: Investigar cómo la digitalización ha impactado positivamente en la eficiencia, la toma de decisiones y la precisión de los registros contables.
+    
+    \item Analizar la Seguridad de la Información Financiera en las Bases de Datos Contables: Evaluar las medidas de seguridad implementadas en las bases de datos contables para proteger la información financiera contra accesos no autorizados y modificaciones indebidas.
+\end{enumerate}
 
-6.-Optimizar recursos: Identificar áreas donde se pueden reducir costos, aumentar eficiencias y mejorar la asignación de recursos, contribuyendo a la rentabilidad de la empresa.
-
-7.-Rendición de cuentas: Proporcionar información transparente y confiable a los accionistas, inversionistas, acreedores y otros stakeholders interesados en la salud financiera de la empresa.
-
-8.-Apoyar la planificación y presupuesto: Colaborar en la elaboración de planes financieros, presupuestos y proyecciones basados en datos contables confiables.
-
-9.-Evaluar el rendimiento: Analizar los resultados financieros y compararlos con metas y estándares previamente establecidos para evaluar el desempeño de la empresa.
-
-10.-Garantizar la continuidad: Contribuir a la estabilidad financiera de la empresa a largo plazo, permitiendo la identificación temprana de desafíos y oportunidades.
-
-
-## Objetivos Específicos: 
-
-1-Evaluar la Efectividad de las Bases de Datos en la Gestión Contable:
-Analizar cómo el uso de bases de datos en la gestión contable mejora la accesibilidad, almacenamiento y seguridad de los registros 
-financieros.
-
-2-Identificar los Beneficios de la Digitalización en la Gestión Contable:
-Investigar cómo la digitalización ha impactado positivamente en la eficiencia, la toma de decisiones y la precisión de los registros 
-contables.
-
-3-Analizar la Seguridad de la Información Financiera en las Bases de Datos Contables:
-Evaluar las medidas de seguridad implementadas en las bases de datos contables para proteger la información financiera contra accesos no 
-autorizados y modificaciones indebidas.
-
+\end{document}
 
