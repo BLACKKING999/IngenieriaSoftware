@@ -78,3 +78,53 @@ FROM
     INNER JOIN sexo ON persona.idsexo = sexo.idsexo
     INNER JOIN tiposangre ON persona.idtiposangre = tiposangre.idtiposangre
     INNER JOIN estadocivil ON persona.idestadocivil = estadocivil.idestadocivil;
+
+
+-- Crear tabla cliente
+CREATE TABLE cliente (
+  idcliente INT PRIMARY KEY,
+  tipocliente VARCHAR(50),
+  FOREIGN KEY (idcliente) REFERENCES persona(idpersona)
+);
+CREATE TABLE proveedor (
+  idproveedor INT PRIMARY KEY,
+  tipoproveedor VARCHAR(50),
+  FOREIGN KEY (id_proveedor) REFERENCES persona(idpersona)
+);
+CREATE TABLE factura (
+  idfactura INT PRIMARY KEY,
+  idcliente INT,
+  idproveedor INT,
+  fechaemision DATE,
+  fechavencimiento DATE,
+  totalfactura FLOAT,
+valorbruto FLOAT,
+valorfinal FLOAT,
+porcentajeiva FLOAT,
+Porcentajedescuento FLOAT,
+
+  FOREIGN KEY (idcliente) REFERENCES cliente(id_cliente),
+  FOREIGN KEY (idproveedor) REFERENCES proveedor(idproveedor)
+);
+CREATE TABLE detallefactura (
+  iddetallefactura INT PRIMARY KEY,
+  idfactura INT,
+  idproducto INT,
+precio FLOAT,
+cantidad INT,
+  FOREIGN KEY (idfactura) REFERENCES factura(idfactura),
+  FOREIGN KEY (idproducto) REFERENCES producto(idproducto)
+);
+
+CREATE TABLE producto (
+  idproducto INT PRIMARY KEY,
+  nombre VARCHAR(50),
+  idtipoproducto INT,
+  Stock INT,
+
+);
+CREATE TABLE tipoproducto (
+  idtipoproducto INT PRIMARY KEY,
+  nombre VARCHAR(50),
+FOREIGN KEY (idtipoproducto) REFERENCES producto(idtipoproducto)
+);
