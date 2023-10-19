@@ -129,11 +129,13 @@ CREATE TABLE producto (
   idproducto INT PRIMARY KEY,
   nombre VARCHAR(50),
   idtipoproducto INT,
+  eliminado TINYINT(1) DEFAULT 0,
   Stock INT,
 
 );
 CREATE TABLE tipoproducto (
   idtipoproducto INT PRIMARY KEY,
+   eliminado TINYINT(1) DEFAULT 0,
   nombre VARCHAR(50),
 FOREIGN KEY (idtipoproducto) REFERENCES producto(idtipoproducto)
 );
