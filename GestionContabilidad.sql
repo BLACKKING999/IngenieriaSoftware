@@ -111,7 +111,7 @@ valorfinal FLOAT,
 porcentajeiva FLOAT,
 Porcentajedescuento FLOAT,
 eliminado TINYINT(1) DEFAULT 0,
-  FOREIGN KEY (idcliente) REFERENCES cliente(id_cliente),
+  FOREIGN KEY (idcliente) REFERENCES cliente(idcliente),
   FOREIGN KEY (idproveedor) REFERENCES proveedor(idproveedor)
 );
 CREATE TABLE detallefactura (
