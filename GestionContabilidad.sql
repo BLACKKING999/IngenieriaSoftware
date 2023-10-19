@@ -53,7 +53,6 @@ idpersona int,
 eliminado TINYINT(1) DEFAULT 0,
 FOREIGN KEY (idpersona) REFERENCES persona(idpersona)
 );
-INSERT INTO persona (nombres, apellidos, fechanacimiento, fechadefuncion, idsexo, idtiposangre, idestadocivil) VALUES ('José Miguel', 'Porozo Caicedo', '2023-09-04', '2150-02-24', 1, 1, 1);
 
 INSERT INTO sexo (nombre) VALUES ('Masculino');
 
@@ -68,6 +67,7 @@ INSERT INTO tiposangre (nombre) VALUES ('AB-');
 INSERT INTO tiposangre (nombre) VALUES ('O-');
 
 INSERT INTO estadocivil (nombre) VALUES ('Soltero/a');
+INSERT INTO persona (nombres, apellidos, fechanacimiento, fechadefuncion, idsexo, idtiposangre, idestadocivil) VALUES ('José Miguel', 'Porozo Caicedo', '2023-09-04', '2150-02-24', 1, 1, 1);
 
 INSERT INTO estadocivil (nombre) VALUES ('Casado/a');
 CREATE VIEW vista_personas AS
