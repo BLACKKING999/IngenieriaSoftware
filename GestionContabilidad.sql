@@ -97,7 +97,7 @@ CREATE TABLE proveedor (
   idproveedor INT PRIMARY KEY,
   tipoproveedor VARCHAR(50),
   eliminado TINYINT(1) DEFAULT 0,
-  FOREIGN KEY (id_proveedor) REFERENCES persona(idpersona)
+  FOREIGN KEY (idproveedor) REFERENCES persona(idpersona)
 );
 CREATE TABLE factura (
   idfactura INT PRIMARY KEY,
