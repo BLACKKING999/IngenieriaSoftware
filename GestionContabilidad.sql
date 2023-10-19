@@ -130,7 +130,7 @@ CREATE TABLE producto (
   nombre VARCHAR(50),
   idtipoproducto INT,
   eliminado TINYINT(1) DEFAULT 0,
-  Stock INT,
+  Stock INT
 
 );
 CREATE TABLE tipoproducto (
